@@ -2,5 +2,5 @@ uniapp
 
 http请求 com.taobao.weex.http.WXStreamModule
 
-
+webview console.error 可以通过 jslog 查看日志。
 
